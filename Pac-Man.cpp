@@ -1,3 +1,8 @@
+/* 
+  by osvaldo velazquez
+  https://github.com/valdolab
+*/
+
 #include <windows.h>
 #include <iostream>
 #include <conio.h>
